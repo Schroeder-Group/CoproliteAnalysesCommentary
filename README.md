@@ -1,2 +1,2 @@
-# This repository was made as a linkt to the original "CoproliteAnalysesCommentaryALP" repository:
+## This repository was made as a link to the original "CoproliteAnalysesCommentaryALP" repository:
 https://github.com/AleksandraLaura/CoproliteAnalysesCommentaryALP
