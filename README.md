@@ -1,2 +1,2 @@
-## This repository was made as a link to the original "CoproliteReanalysis" repository:
-[https://github.com/AleksandraLaura/CoproliteReanalysis](https://github.com/AleksandraLaura/CoproliteReanalysis)
+## This repository was made as a link to the original "DietComment" repository:
+[https://github.com/AleksandraLaura/DietComment](https://github.com/AleksandraLaura/DietComment) 
